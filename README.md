@@ -1,5 +1,7 @@
 # 绿色自适应网址发布页源码
 
+源地址：<https://gitee.com/pigfei/fabuye>
+
 #### 介绍
 绿色自适应网址发布页源码
 
